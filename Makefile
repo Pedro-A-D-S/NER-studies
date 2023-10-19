@@ -1,0 +1,1 @@
+init: poetry env use python3.8 poetry shell poetry install
