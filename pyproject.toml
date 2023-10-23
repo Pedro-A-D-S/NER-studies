@@ -5,6 +5,10 @@ description = "This project uses tensorflow to study NER with BiLSTMs, CRFs and 
 authors = ["Pedro-A-D-S <pedroalves0409@gmail.com>"]
 license = "MIT"
 readme = "README.md"
+include = ["CHANGELOG.md"]
+packages = [
+    {include = "src"}
+]
 
 [tool.poetry.dependencies]
 python = "3.8.18"
