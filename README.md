@@ -1,6 +1,6 @@
 # NER classification
 
-Brief description or introduction to your project.
+**Named Entity Recognition** (NER) is a critical task in natural language processing (NLP) that involves identifying and classifying entities within text, such as names of people, organizations, locations, dates, and more. This README provides an overview of using TensorFlow, a popular open-source machine learning framework, for developing NER models. NER with TensorFlow is essential for automating the extraction of structured information from unstructured text, making it a valuable tool for various NLP applications. In this guide, we will explore how to leverage TensorFlow's capabilities to create robust NER models and adapt them to specific domain requirements.
 
 ## Table of Contents
 
